@@ -1,2 +1,2 @@
 # Training-Examples
-Examples for developers trainingw
+Examples for developers training
